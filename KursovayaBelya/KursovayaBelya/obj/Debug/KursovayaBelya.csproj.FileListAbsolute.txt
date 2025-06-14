@@ -1,0 +1,16 @@
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\bin\Debug\KursovayaBelya.exe
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\bin\Debug\KursovayaBelya.pdb
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\obj\Debug\KursovayaBelya.csproj.AssemblyReference.cache
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\obj\Debug\KursovayaBelya.FormSUBD.resources
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\obj\Debug\KursovayaBelya.Properties.Resources.resources
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\obj\Debug\KursovayaBelya.csproj.GenerateResource.cache
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\obj\Debug\KursovayaBelya.csproj.CoreCompileInputs.cache
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\obj\Debug\KursovayaBelya.exe
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\obj\Debug\KursovayaBelya.pdb
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\obj\Debug\KursovayaBelya.FormAdd.resources
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\obj\Debug\KursovayaBelya.FormEdit.resources
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\bin\Debug\KursovayaBelya.exe.config
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\bin\Debug\MySql.Data.dll
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\bin\Debug\MySql.Data.xml
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\obj\Debug\KursovayaBelya.csproj.CopyComplete
+C:\Users\Denis Beryozkin\source\repos\KursovayaBelya\KursovayaBelya\obj\Debug\KursovayaBelya.Login.resources
